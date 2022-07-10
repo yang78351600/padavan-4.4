@@ -39,8 +39,8 @@
 #define DEF_WLAN_5G_CC		"US"
 #define DEF_WLAN_2G_SSID	"ChinaNet00"
 #define DEF_WLAN_5G_SSID	"ChinaNet02"
-#define DEF_WLAN_2G_GSSID	BOARD_PID "_GUEST_%s"
-#define DEF_WLAN_5G_GSSID	BOARD_PID "_GUEST_5G_%s"
+#define DEF_WLAN_2G_GSSID	"GUEST00"
+#define DEF_WLAN_5G_GSSID	"GUEST02"
 #define DEF_WLAN_2G_PSK		"23022302...."
 #define DEF_WLAN_5G_PSK		"23022302.."
 
